@@ -14,6 +14,13 @@
 	<description>服务网关，基于 spring cloud gateway</description>
 
 	<dependencies>
+		<!--url .../doc.html-->
+		<!--引入Knife4j的官方ui包-->
+		<dependency>
+			<groupId>io.springboot</groupId>
+			<artifactId>knife4j-openapi3-ui</artifactId>
+			<version>3.0.3</version>
+		</dependency>
 		<!--gateway 网关依赖,内置webflux 依赖-->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
