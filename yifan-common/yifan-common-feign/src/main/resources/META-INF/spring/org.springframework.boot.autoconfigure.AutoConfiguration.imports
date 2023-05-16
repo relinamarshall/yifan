@@ -1,0 +1,4 @@
+com.yifan.common.feign.FeignAutoConfiguration
+com.yifan.common.feign.FeignRetryAutoConfiguration
+com.yifan.common.feign.sentinel.SentinelAutoConfiguration
+com.yifan.common.feign.sentinel.handle.GlobalBizExceptionHandler

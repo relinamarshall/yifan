@@ -1,0 +1,7 @@
+com.yifan.upms.core.feign.RemoteClientDetailsService
+com.yifan.upms.core.feign.RemoteDictService
+com.yifan.upms.core.feign.RemoteDeptService
+com.yifan.upms.core.feign.RemoteLogService
+com.yifan.upms.core.feign.RemoteTokenService
+com.yifan.upms.core.feign.RemoteUserService
+com.yifan.upms.core.feign.RemoteParamService

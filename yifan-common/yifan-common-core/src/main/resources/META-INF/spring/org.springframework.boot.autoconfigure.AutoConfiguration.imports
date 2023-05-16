@@ -1,0 +1,6 @@
+com.yifan.common.core.config.TaskExecutorConfiguration
+com.yifan.common.core.config.JacksonConfiguration
+com.yifan.common.core.config.RedisTemplateConfiguration
+com.yifan.common.core.config.RestTemplateConfiguration
+com.yifan.common.core.util.SpringContextHolder
+com.yifan.common.core.config.WebMvcConfiguration

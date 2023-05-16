@@ -1,0 +1,7 @@
+com.yifan.common.security.service.ExtUserDetailsServiceImpl
+com.yifan.common.security.service.AppUserDetailsServiceImpl
+com.yifan.common.security.service.DiyRedisOAuth2AuthorizationService
+com.yifan.common.security.service.DiyRedisOAuth2AuthorizationConsentService
+com.yifan.common.security.aspect.DiySecurityInnerAspect
+com.yifan.common.security.component.SecurityMessageSourceConfiguration
+com.yifan.common.security.service.DiyRemoteRegisteredClientRepository
