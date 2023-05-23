@@ -1,6 +1,7 @@
 package com.yifan.upms.biz;
 
 import com.yifan.common.feign.annotation.EnableFeignClients;
+import com.yifan.common.job.annotation.EnableXxlJob;
 import com.yifan.common.security.annotation.EnableResourceServer;
 import com.yifan.common.swagger.annotation.EnableDoc;
 
@@ -17,6 +18,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
  * @since 2023/5/12 10:02
  */
 @EnableDoc
+@EnableXxlJob
 @EnableResourceServer
 @EnableFeignClients
 @EnableDiscoveryClient

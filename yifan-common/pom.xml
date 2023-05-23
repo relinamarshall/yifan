@@ -22,5 +22,6 @@
 		<module>yifan-common-security</module>
 		<module>yifan-common-swagger</module>
 		<module>yifan-common-xss</module>
+		<module>yifan-common-job</module>
 	</modules>
 </project>
